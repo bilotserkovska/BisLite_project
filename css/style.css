@@ -79,7 +79,7 @@ header .navbar-default .navbar-nav .active-link a{
 	width: 100%;
 	position: relative;
 }
-.slider-wrap h1{
+.slider-wrap p{
 	position: absolute;
 	left: 7%;
 	top: 19%;
@@ -425,7 +425,7 @@ iframe {
 	 -webkit-transition: .2s linear;
      -moz-transition: .2s linear;
      -o-transition: .2s linear;
-     transition: .2s linear;*/
+     transition: .2s linear;
 }
 .row-image-holder li img{
 	width: 100%;
@@ -485,13 +485,11 @@ iframe {
 	background: url(../images/next2.png)no-repeat !important;
 	opacity: .6;
 }
-@media screen and (max-width: 1199px){
-}
 @media screen and (max-width: 991px){
 	header .navbar-default .navbar-nav>li{
 		padding: 5px 5px;
 	}
-	.slider-wrap h1{
+	.slider-wrap p{
 		font-size: 40px !important;
 	}
 	.button-section{
