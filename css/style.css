@@ -575,6 +575,9 @@ iframe {
 		border-top: 1px solid #dfe1e5;
 		padding-top: 20px;
 	}
+	.row-image-holder ul{
+		padding: 0;
+	}
 	.button-section input[type=button] {
 	    padding: 19px 20px 19px 45px;
 	    background: url(../images/download.png)no-repeat 3px;
